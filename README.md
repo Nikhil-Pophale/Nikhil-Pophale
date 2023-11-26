@@ -11,11 +11,14 @@ Hello, my name is Nikhill Pophale, and I am an automation testing professional w
 
 👨‍💻 All of my projects are showcase as below or available at https://github.com/Nikhil-Pophale 
 
-**Languages and Tools:**
+**⚡Languages and Tools:**
 
 Java ,MySQL , Selenium, 
+
 Rest-Assured, Docker, 
+
 JEnKins , Maven, Git, 
+
 TestNG, UNIX, SQL developer, Postman
 
 
