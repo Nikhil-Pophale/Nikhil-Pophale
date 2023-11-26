@@ -5,7 +5,9 @@
 
 
 - I'm currently practising End-to-end automation Framework in Selenium with Java , Rest-Assured
+  
 👯 I’m looking to collaborate on API Testing, Selenium, Automation Frameworks
+
 👨‍💻 All of my projects are showcase as below or available at https://github.com/Nikhil-Pophale 
 
 **Languages and Tools:**
