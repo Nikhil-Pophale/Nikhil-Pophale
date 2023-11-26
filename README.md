@@ -2,7 +2,7 @@
 
 
 
-"Hello, my name is Nikhill Pophale, and I am an automation testing professional with 2.5+ years of experience in the field. I have a good hands on  test automation frameworks, scripting languages, and test management tools, and I am always eager to learn new technologies and tools.
+Hello, my name is Nikhill Pophale, and I am an automation testing professional with 2.5+ years of experience in the field. I have a good hands on  test automation frameworks, scripting languages, and test management tools, and I am always eager to learn new technologies and tools.
 
 
 - I'm currently practising End-to-end automation Framework in Selenium with Java , Rest-Assured
