@@ -1,4 +1,5 @@
-**Hi, I’m @Nikhil-Pophale ! Great to see you here!! wave.gif**  ![Screenshot 2023-11-26 153520](https://github.com/Nikhil-Pophale/Nikhil-Pophale/assets/141396302/ecd545ef-d5fc-45eb-9a6e-45ed80c83996)
+**Hi, I’m @Nikhil-Pophale ! Great to see you here!!**  ![391906110_WAVING_HAND_400px (1)](https://github.com/Nikhil-Pophale/Nikhil-Pophale/assets/141396302/2b887f37-1f3d-4943-909d-1ce757df285f)
+
 
 
 "Hello, my name is Nikhill Pophale, and I am an automation testing professional with 2.5+ years of experience in the field. I have a good hands on  test automation frameworks, scripting languages, and test management tools, and I am always eager to learn new technologies and tools.
