@@ -14,7 +14,40 @@ Hello, my name is Nikhill Pophale, and I am an automation testing professional w
 •	All of my projects are showcase as below or available at https://github.com/Nikhil-Pophale 
 
 
-_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **⚡𝐿𝑎𝑛𝑔𝑢𝑎𝑔𝑒𝑠 𝑎𝑛𝑑 𝑇𝑜𝑜𝑙𝑠:**
 
  Selenium with Java, MySQL,
