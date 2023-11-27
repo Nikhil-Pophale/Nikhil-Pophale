@@ -24,13 +24,9 @@ Hello, my name is Nikhill Pophale, and I am an automation testing professional w
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
 </div>
 
- Selenium with Java, MySQL,
-
-Rest-Assured, Docker, 
-
-JEnKins , Maven, Git, 
-
-TestNG, UNIX, SQL developer, Postman
+<div align="center">
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
+</div>
 
 
 
