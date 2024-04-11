@@ -7,7 +7,7 @@ Hello, my name is Nikhill Pophale, and I am an automation testing professional .
 
 
 
-•	I'm currently practising End-to-end automation Framework in Selenium with Java , Rest-Assured
+•	Currently practising to develop scalable  End-to-end automation Framework in Selenium with Java , Rest-Assured
 
 •	I’m looking to collaborate on API Testing, Selenium, Automation Frameworks
 
